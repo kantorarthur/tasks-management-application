@@ -1,0 +1,78 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.6">
+  <diagram name="Page-1" id="F5Ayr7phZVqiFT172cdO">
+    <mxGraphModel dx="1158" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VzfO4TCh2M62fbYXbTK9-19" edge="1" parent="1" source="VzfO4TCh2M62fbYXbTK9-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;edgeStyle=orthogonalEdgeStyle;" target="VzfO4TCh2M62fbYXbTK9-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="40" />
+            </Array>
+            <mxPoint x="180" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VzfO4TCh2M62fbYXbTK9-20" edge="1" parent="1" source="VzfO4TCh2M62fbYXbTK9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.018;entryY=0.369;entryDx=0;entryDy=0;entryPerimeter=0;" target="VzfO4TCh2M62fbYXbTK9-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="304" y="150" />
+              <mxPoint x="304" y="112" />
+            </Array>
+            <mxPoint x="310" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VzfO4TCh2M62fbYXbTK9-21" edge="1" parent="1" source="VzfO4TCh2M62fbYXbTK9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="VzfO4TCh2M62fbYXbTK9-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VzfO4TCh2M62fbYXbTK9-22" edge="1" parent="1" source="VzfO4TCh2M62fbYXbTK9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="VzfO4TCh2M62fbYXbTK9-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VzfO4TCh2M62fbYXbTK9-23" edge="1" parent="1" source="VzfO4TCh2M62fbYXbTK9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="VzfO4TCh2M62fbYXbTK9-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VzfO4TCh2M62fbYXbTK9-24" edge="1" parent="1" source="VzfO4TCh2M62fbYXbTK9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="VzfO4TCh2M62fbYXbTK9-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VzfO4TCh2M62fbYXbTK9-25" edge="1" parent="1" source="VzfO4TCh2M62fbYXbTK9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="VzfO4TCh2M62fbYXbTK9-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VzfO4TCh2M62fbYXbTK9-26" edge="1" parent="1" source="VzfO4TCh2M62fbYXbTK9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="VzfO4TCh2M62fbYXbTK9-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VzfO4TCh2M62fbYXbTK9-27" edge="1" parent="1" source="VzfO4TCh2M62fbYXbTK9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="VzfO4TCh2M62fbYXbTK9-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VzfO4TCh2M62fbYXbTK9-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Manager&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="60" x="150" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="VzfO4TCh2M62fbYXbTK9-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Add Employee" vertex="1">
+          <mxGeometry height="60" width="100" x="397.5" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VzfO4TCh2M62fbYXbTK9-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Add Task" vertex="1">
+          <mxGeometry height="60" width="125" x="385" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="VzfO4TCh2M62fbYXbTK9-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Assign Task To Employee" vertex="1">
+          <mxGeometry height="60" width="135" x="385" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="VzfO4TCh2M62fbYXbTK9-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Modify Task Status" vertex="1">
+          <mxGeometry height="50" width="127.5" x="385" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="VzfO4TCh2M62fbYXbTK9-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Calculate Employee Work Duration" vertex="1">
+          <mxGeometry height="60" width="130" x="387.5" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="VzfO4TCh2M62fbYXbTK9-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Filter Employees By Work Duration" vertex="1">
+          <mxGeometry height="50" width="130" x="387.5" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="VzfO4TCh2M62fbYXbTK9-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Assign Task To Complex Task" vertex="1">
+          <mxGeometry height="60" width="157.5" x="372.5" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="VzfO4TCh2M62fbYXbTK9-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Show Number Of Completed And Uncompleted Tasks Of Employee" vertex="1">
+          <mxGeometry height="80" width="197.5" x="353.75" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="VzfO4TCh2M62fbYXbTK9-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Show All Data" vertex="1">
+          <mxGeometry height="70" width="160" x="380" y="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
