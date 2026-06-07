@@ -3,8 +3,6 @@
 
 A GUI-driven Task and Employee Management application designed to streamline workflow organization. The application allows administrators to manage an organization's workforce and coordinate assignments through an intuitive interface. It features comprehensive employee tracking, advanced task creation (supporting both simple and hierarchical complex tasks), and dynamic work duration calculations.
 
-The application is implemented using layered architecture , Object-Oriented Programming (OOP) concepts, and software design principles to ensure a clean separation of concerns and high maintainability.
-
 The application is storing the data using serialization operations, allowing user progress and records to be saved and reloaded seamlessly.
 
 The development of the application was made using **Java** (backend logic), **Java Swing** (user interface), and **FlatLaf** for styling and designing.
