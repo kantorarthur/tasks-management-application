@@ -7,7 +7,7 @@ The application is storing the data using serialization operations, allowing use
 
 The development of the application was made using **Java** (backend logic), **Java Swing** (user interface), and **FlatLaf** for styling and designing.
 
-**In order to run the application just download the folder and run "runApplication"**.                                                                                                                                     
+**In order to run the application download the folder and run "runApplication"**.                                                                                                                                     
 **NEED TO HAVE JAVA17 OR NEWER IN ORDER TO RUN THE APPLICATION!**
 
 ## Short video-presentation of the Application
