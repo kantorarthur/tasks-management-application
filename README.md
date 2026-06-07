@@ -46,7 +46,7 @@ https://github.com/user-attachments/assets/585a22fe-6cac-47b2-808b-3001ebaeb741
 
         A Complex Task it's a task that can store a list of tasks(Simple Task or another Complex Task).
 
-•Workforce Overview: View Unassigned Tasks.
+•Tasks Overview: View Unassigned Tasks.
 <img width="730" height="485" alt="image" src="https://github.com/user-attachments/assets/36182522-1b3b-4133-b406-cce5c1a02731" />
 
 •Task Assignment & Tracking: Assign specific tasks to employees, track and modify task statuses.
