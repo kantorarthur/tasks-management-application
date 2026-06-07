@@ -5,7 +5,12 @@ A GUI-driven Task and Employee Management application designed to streamline wor
 
 The application is implemented using layered architecture , Object-Oriented Programming (OOP) concepts, and software design principles to ensure a clean separation of concerns and high maintainability.
 
+The application is storing the data using serialization operations, allowing user progress and records to be saved and reloaded seamlessly.
+
 The development of the application was made using **Java** (backend logic), **Java Swing** (user interface), and **FlatLaf** for styling and designing.
+
+## Short video-presentation of the Application
+https://github.com/user-attachments/assets/585a22fe-6cac-47b2-808b-3001ebaeb741
 
 ## Key Features
 
